@@ -6,7 +6,7 @@ tqdm>=4.14.0
 pytest
 parameterized
 requests
-flake8==3.7.9
+flake8==7.4.1
 cffi==1.14.3
 crcmod
 pre-commit==2.13.0
