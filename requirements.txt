@@ -1,7 +1,7 @@
 libusb1==2.0.1
 numpy
 hexdump>=3.3
-pycryptodome==3.9.8
+pycryptodome==3.24.0
 tqdm>=4.14.0
 pytest
 parameterized
