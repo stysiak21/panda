@@ -9,7 +9,7 @@ requests
 flake8==3.7.9
 cffi==1.14.3
 crcmod
-pre-commit==2.13.0
+pre-commit==4.7.0
 pylint==2.15.4
 scons==4.4.0
 flaky
